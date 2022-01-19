@@ -19,15 +19,14 @@ Games — Original LPC Projects
 ------------
 These games were created as part of the original 2012-2013 LPC competition.
 
-
 **Work in progress**
 
 https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here
-https://opengameart.org/content/big-island
-https://opengameart.org/content/castle-defense
+* **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
+* **Castle Defense** ([OGA File](https://opengameart.org/content/castle-defense)) — Fast-paced maths game, won second place on the individual competition. The original website where you could play it online is no longer online and the Wayback Machine has no copy preserved, but OGA kept a .zip of the game's original version released for the competition.
 https://opengameart.org/content/laurelias-polymorphable-citizens-0
-https://opengameart.org/content/lurking-patrol-comrades
-https://opengameart.org/content/unsealed-whispers-of-wisdom-fixed
+* **Lurking Patrol Comrades/Source of Tales** ([Repositories](https://opengameart.org/content/lurking-patrol-comrades)) ([Website](http://www.sourceoftales.org/)) — MMORPG that uses the same client as The Mana World. Won the Grand Prize in the original LPC competition and continued development under the second name listed, but the website seems to have gone inactive shortly afterwards.
+* **Unsealed: Whispers of Wisdom** ([Github](https://github.com/Nushio/Unsealed)) — Action RPG. Compiled .jar files for running on Windows, Mac or Linux included. A separate branch has work on a 2.0 version. The initial version shipped to the judges - bugs and all - was hosted on the developer's website, but it is no longer online.
 
 
 Licensing and Contributing
