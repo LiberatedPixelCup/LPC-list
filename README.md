@@ -19,7 +19,7 @@ Games — Original LPC Projects
 ------------
 These games were created as part of the original 2012-2013 LPC competition.
 
-**Work in progress**
+**Work in progress - don't include unplayable (lost) games, those will go to a separate section**
 
 https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here
 * **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. By day, players explore, hire guards and upgrade their gear; by night, they attempt to save villagers from zombies - but they can't save everyone. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
