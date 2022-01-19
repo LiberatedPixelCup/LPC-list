@@ -24,11 +24,11 @@ These games were created as part of the original 2012-2013 LPC competition.
 https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here
 * **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. By day, players explore, hire guards and upgrade their gear; by night, they attempt to save villagers from zombies - but they can't save everyone. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
 * **Castle Defense** ([OGA File](https://opengameart.org/content/castle-defense)) — Fast-paced maths game, won second place on the individual competition. The original website where you could play it online is no longer online and the Wayback Machine has no copy preserved, but OGA kept a .zip of the game's original version released for the competition.
-* **Dungeon Tactics** ([IndieDB Page](https://www.indiedb.com/games/dungeon-tactics)) — Skirmish RPG that incorporates LPC sprites into a 3D game. Continued development for a few more versions after the initial competition release.
+* **Dungeon Tactics** ([IndieDB Page](https://www.indiedb.com/games/dungeon-tactics)) — Skirmish RPG that incorporates LPC sprites into a 3D game. Initial version needs to be compiled from source. Continued development for a few more versions after the initial competition release.
 * **Laurelia's Polymorphable Citiziens** ([OGA File](https://opengameart.org/content/laurelias-polymorphable-citizens-0)) ([Github](https://github.com/pennomi/polymorphable)) — Action RPG using the FLARE engine, won second place in the teams competition. Players can polymorph into different shapes to overcome obstacles in a metroidvania style.
 * **Lurking Patrol Comrades/Source of Tales** ([Repositories](https://opengameart.org/content/lurking-patrol-comrades)) ([Website](http://www.sourceoftales.org/)) — MMORPG that uses the same client as The Mana World. Won the Grand Prize in the original LPC competition and continued development under the second name listed, but the website seems to have gone inactive shortly afterwards.
+*  **Sorcerer's Garden** ([Github](https://github.com/sanojian/lpc_sorc_garden)) — RPG, post-jam updates exist in a separate branch.
 * **Unsealed: Whispers of Wisdom** ([Github](https://github.com/Nushio/Unsealed)) — Action RPG. Compiled .jar files for running on Windows, Mac or Linux included. A separate branch has work on a 2.0 version. The initial version shipped to the judges was hosted on the developer's website, but it is no longer online.
-
 
 Licensing and Contributing
 ------------
