@@ -15,6 +15,21 @@ Games — Active Development
 * **Stendhal** ([Website](https://arianne-project.org/game/stendhal.html))  — Free MMORPG. Uses LPC assets, but also many assets from other places; overall visual style is not LPC-oriented as it predates the LPC project by almost a decade.
 * **Vagabond** ([Website](https://www.vagabondgame.com/)) ([Steam](https://store.steampowered.com/app/1673090/Vagabond/)) ([itch.io](https://pvigier.itch.io/vagabond-demo)) — Sandbox RPG still under development; coming to Windows and Linux. Free demos are available on itch.io; the latest version as of January 2022 is Alpha 5.
 
+Games — Original LPC Projects
+------------
+These games were created as part of the original 2012-2013 LPC competition.
+
+
+**Work in progress**
+
+https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here
+https://opengameart.org/content/big-island
+https://opengameart.org/content/castle-defense
+https://opengameart.org/content/laurelias-polymorphable-citizens-0
+https://opengameart.org/content/lurking-patrol-comrades
+https://opengameart.org/content/unsealed-whispers-of-wisdom-fixed
+
+
 Licensing and Contributing
 ------------
 Please keep in mind the CC0 license you see here only applies to the text in this list, and **not** necessarily to any LPC asset or any game created with them. Check each asset's licensing before using it in your own projects.
