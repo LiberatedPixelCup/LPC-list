@@ -10,6 +10,7 @@ The list below only features games for now, as this kind of resource had no list
 
 Games — Active Development
 ------------
+* **Encyclopedia Hortica Botanica** ([Github](https://github.com/samuncle/hortica-botanica)) ([OGA Thread](https://opengameart.org/forumtopic/encyclopedia-hortica-botanica-a-farming-game-made-with-godot-and-lpc-assets-0)) — Open-source farming game made in the Godot engine. 
 * **Eternal Quest** ([Steam](https://store.steampowered.com/app/1385300/Eternal_Quest__2D_MMORPG/)) ([Website](https://eternal-quest.com.br/)) — MMORPG; released for Windows. Specific LPC assets used are credited in the website's "About" page. Character portraits and other elements not from LPC.
 * **Herodom** ([Website](https://sites.google.com/view/herodom/home)) — Strategy game combining unit, resource and city management; released for the iPhone and iPad. Specific LPC assets used are credited in the website's "Credits" page. Components of the game and an updated [LPC character spritesheet generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) have been open-sourced by the developer.
 * **Stendhal** ([Website](https://arianne-project.org/game/stendhal.html))  — Free MMORPG. Uses LPC assets, but also many assets from other places; overall visual style is not LPC-oriented as it predates the LPC project by almost a decade.
