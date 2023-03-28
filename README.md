@@ -21,7 +21,7 @@ Games — Original LPC Projects
 ------------
 These games were created as part of the original 2012-2013 LPC competition.
 
-**Work in progress - don't include unplayable (lost) games, those will go to a separate section**
+**Work in progress - don't include unplayable (lost) games, those go in a separate section below**
 
 
 * **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. By day, players explore, hire guards and upgrade their gear; by night, they attempt to save villagers from zombies - but they can't save everyone. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
@@ -33,6 +33,12 @@ These games were created as part of the original 2012-2013 LPC competition.
 *  **Sorcerer's Garden** ([Github](https://github.com/sanojian/lpc_sorc_garden)) — RPG, post-jam updates exist in a separate branch.
 * **Unsealed: Whispers of Wisdom** ([Github](https://github.com/Nushio/Unsealed)) — Action RPG. Compiled .jar files for running on Windows, Mac or Linux included. A separate branch has work on a 2.0 version. The initial version shipped to the judges was hosted on the developer's website, but it is no longer online.
 * **Volley Zombie** ([Github](https://github.com/jhcp/volleyzombie)) ([Play online on Github.io website](https://jhcp.github.io/volleyzombie)) — Browser-based sports/arcade game made in HTML5 with Crafty. May be close to unplayable due to low FPS. A separate branch contains the original jam version, while the master has received patches since. 
+
+Original LPC Projects - Lost Media
+------------
+These games were created as part of the original 2012-2013 LPC competition, but have since become unavailable due to websites shutting down or file sharing links no longer working. Whenever possible, surviving media is linked below. 
+
+* **Unsealed: Whispers of Wisdom** — Action RPG. A 2.0 version was being worked on at some point. Author uploaded some original LPC-styled assets used in the game, those are still up on [their OGA page](https://opengameart.org/users/nushio).
 
 Additional Sources
 ------------
