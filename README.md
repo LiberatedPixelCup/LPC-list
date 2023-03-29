@@ -1,6 +1,5 @@
 # LPC List
 
-**Work in progress**
 
 This is a curated list of all projects connected to the [Liberated Pixel Cup](https://lpc.opengameart.org/) competition. It was started after the realisation that there were already resources that consolidate many LPC assets, but none that tracked games created with such assets.
 
@@ -29,13 +28,19 @@ Games — Original LPC Projects
 ------------
 These games were created as part of the original 2012-2013 LPC competition.
 
+* **Alchemist Game** ([OGA Page](https://opengameart.org/content/alchemist-game)) ([Source code on Assembla](https://app.assembla.com/spaces/alchemist-game/git/source)) — Built in Java 1.7. Built around multiplayer, single player is possible but still requires opening a separate file to start a local server.
+
 * **Archer Man: Defender of the Unnamed Village** ([Github](https://github.com/CaptainJet/Archer_Man-Defender_of_the_Unnamed_Village)) — Defence game written in Ruby. Links to precompiled version and highscores are lost.
 
-* **Artificier's Quest: the Staff of Ivalder** ([OGA Files](https://opengameart.org/content/artificiers-quest-the-staff-of-ivalder)) ([Internet Archive source code](https://archive.org/details/AQTSoISourceV68)) ([Screenshots on Imgur](https://imgur.com/a/AVdmU#0)) — Action fantasy game. Outmaneuver your enemies and evade their attacks while destroying them with your own spells.
+* **Artificier's Quest: the Staff of Ivalder** ([OGA page](https://opengameart.org/content/artificiers-quest-the-staff-of-ivalder)) ([Internet Archive source code](https://archive.org/details/AQTSoISourceV68)) ([Screenshots on Imgur](https://imgur.com/a/AVdmU#0)) — Action fantasy game. Outmaneuver your enemies and evade their attacks while destroying them with your own spells.
 
-* **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. By day, players explore, hire guards and upgrade their gear; by night, they attempt to save villagers from zombies - but they can't save everyone. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
+* **Big Island** ([Github](https://github.com/seveibar/liberated-pixel-cup)) ([Play online on Github.io website](https://www.seveibar.com/projects.html#big-island)) — Open-world sandbox survival. By day, players explore, hire guards and upgrade their gear; by night, they attempt to save villagers from zombies — but they can't save everyone. Won the HTML5 Grand Prize in the original LPC competition, the version currently available has had several improvements patched into it after the jam.
 
-* **Castle Defense** ([OGA File](https://opengameart.org/content/castle-defense)) — Fast-paced maths game, won second place on the individual competition. The original website where you could play it online is no longer online and the Wayback Machine has no copy preserved, but OGA kept a .zip of the game's original version released for the competition.
+* **BitBrawl** ([OGA page](https://opengameart.org/content/bitbrawl)) ([Github](https://github.com/singpolyma/BitBrawl)) — PVP local multiplayer brawler.
+
+* **Bright Frame Tactics** ([Source code at Bitbucket](https://bitbucket.org/gr3yh47/bfcs/src/master/)) — Turn-based tactical strategy game, 2-player hotseat multiplayer. Written in Python. Received patches a while after the contest end.
+
+* **Castle Defense** ([OGA page](https://opengameart.org/content/castle-defense)) — Fast-paced maths game, won second place on the individual competition. The original website where you could play it online is no longer online and the Wayback Machine has no copy preserved, but OGA kept a .zip of the game's original version released for the competition.
 
 * **Dungeon Tactics** ([IndieDB Page](https://www.indiedb.com/games/dungeon-tactics)) — Skirmish RPG that incorporates LPC sprites into a 3D game. Initial version needs to be compiled from source. Continued development for a few more versions after the initial competition release.
 
@@ -47,7 +52,15 @@ These games were created as part of the original 2012-2013 LPC competition.
 
 * **Neverwell Moore** ([Github](https://github.com/blipjoy/nm-prototype)) ([Play online on Github.io website](http://blipjoy.github.io/nm-prototype/)) ([Blog, Postmortem](https://www.kodewerx.org/projects/index.html)) — HTML5 Adventure game set around an island.
 
+* **Solitude** — ([OGA Page](https://opengameart.org/content/solitude)) Interactive story with four different endings built in Python, tar.bz file remains but code repo no longer exists.
+
 *  **Sorcerer's Garden** ([Github](https://github.com/sanojian/lpc_sorc_garden)) — RPG, post-jam updates exist in a separate branch.
+
+* **Terramancers** ([OGA page](https://opengameart.org/content/terramancers)) ([Website](https://shaishapira.com/terramancers/)) ([Code repo](http://svn.code.sf.net/p/vakhoarena/code/trunk/dev/)) — Real-time, reminiscent of the Reversi and Othello boardgames. Change most of the ground to your tile colours to win. Supports local multiplayer.
+
+* **The Liberate Pixil Cup Quest** ([OGA page](https://opengameart.org/content/the-liberate-pixil-cup-quest)) — Roguelike built on HTML5 and Javascript.
+
+* **Trouble in Libreland** ([OGA page](https://opengameart.org/content/trouble-in-libreland)) ([Sourceforge](https://sourceforge.net/projects/trinlibr/)) — RPG RTS hybrid written in C++ using Gorgon Game Engine. Seems to have been worked on for a little while after the compo ended.
 
 * **Unsealed: Whispers of Wisdom** ([Github](https://github.com/Nushio/Unsealed)) — Action RPG. Compiled .jar files for running on Windows, Mac or Linux included. A separate branch has work on a 2.0 version. The initial version shipped to the judges was hosted on the developer's website, but it is no longer online.
 
@@ -59,19 +72,15 @@ These games were created as part of the original 2012-2013 LPC competition.
 
 Original LPC Projects — Lost Media
 ------------
-These games were created as part of the original 2012-2013 LPC competition, but have since become unavailable due to websites shutting down or file sharing links no longer working. Whenever possible, surviving media is linked below. 
+These games were created as part of the original 2012-2013 LPC competition, but have since become unavailable due to websites shutting down or file sharing links no longer working. Whenever possible, surviving media is linked below. A few projects lost without any information remaining (incl. name) are not mentioned.
 
-* **Alchemist Game** — Built in Java 1.7. No information remains.
-
-* **Farm Taken Over** — Endless defence web game.
-
-* **Solitude** — Built in Python, a post-jam version seems to have been made produced. No information on game genre.
+* **Farm Taken Over** — Endless defence web game built with HTML5 and JavaScript. Based on a graphic novel (Three Shadows, by Cyril Pedrosa) and a short story (House Taken Over, by Julio Cortazar). Aimed to create a sense of building suspense.
 
 * **Unsealed: Whispers of Wisdom** — Action RPG. A 2.0 version was being worked on at some point. Author uploaded some original LPC-styled assets used in the game, those are still up on [their OGA page](https://opengameart.org/users/nushio).
 
 Additional Sources
 ------------
-* https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here — Thread dating from the Jam, doesn't include all entries. Not the only source to check before marking games as lost, many can be found by searching the author's name on Github.
+* https://opengameart.org/forumtopic/optional-but-appreciated-post-your-binaries-here — Thread dating from the Jam, doesn't include all entries. Not the only source to check before marking games as lost, many can be found by searching the author's name on Github or guessing URLs on OGA.
 
 Licensing and Contributing
 ------------
