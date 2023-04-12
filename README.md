@@ -52,7 +52,7 @@ These games were created as part of the original 2012-2013 LPC competition.
 
 * **Neverwell Moore** ([Github](https://github.com/blipjoy/nm-prototype)) ([Play online on Github.io website](http://blipjoy.github.io/nm-prototype/)) ([Blog, Postmortem](https://www.kodewerx.org/projects/index.html)) — HTML5 Adventure game set around an island.
 
-* **Solitude** — ([OGA Page](https://opengameart.org/content/solitude)) Interactive story with four different endings built in Python, tar.bz file remains but code repo no longer exists.
+* **Solitude** ([OGA Page](https://opengameart.org/content/solitude)) — Interactive story with four different endings built in Python, tar.bz file remains but code repo no longer exists.
 
 *  **Sorcerer's Garden** ([Github](https://github.com/sanojian/lpc_sorc_garden)) — RPG, post-jam updates exist in a separate branch.
 
