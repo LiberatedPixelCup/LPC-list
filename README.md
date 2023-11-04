@@ -64,7 +64,7 @@ These games were created as part of the original 2012-2013 LPC competition.
 
 * **Unsealed: Whispers of Wisdom** ([Github](https://github.com/Nushio/Unsealed)) — Action RPG. Compiled .jar files for running on Windows, Mac or Linux included. A separate branch has work on a 2.0 version. The initial version shipped to the judges was hosted on the developer's website, but it is no longer online.
 
-* **Villages** ([Github](https://github.com/rwhwilliam/LPC)) — Must be compiled to run. Windows and Linux support. Link to pre-compiled version no longer works.
+* **Villages** ([Github](https://github.com/rwhwilliam/LPC)) — Must be compiled to run. Windows and Linux support. Link to pre-compiled version no longer works. Untested before adding to this list.
 
 * **Volley Zombie** ([Github](https://github.com/jhcp/volleyzombie)) ([Play online on Github.io website](https://jhcp.github.io/volleyzombie)) — Browser-based sports/arcade game made in HTML5 with Crafty. May be close to unplayable due to low FPS. A separate branch contains the original jam version, while the master has received patches since.
 
@@ -77,6 +77,12 @@ These games were created as part of the original 2012-2013 LPC competition, but 
 * **Farm Taken Over** — Endless defence web game built with HTML5 and JavaScript. Based on a graphic novel (Three Shadows, by Cyril Pedrosa) and a short story (House Taken Over, by Julio Cortazar). Aimed to create a sense of building suspense.
 
 * **Unsealed: Whispers of Wisdom** — Action RPG. A 2.0 version was being worked on at some point. Author uploaded some original LPC-styled assets used in the game, those are still up on [their OGA page](https://opengameart.org/users/nushio).
+  
+Additional Games
+------------
+These games are archived and known, but are not from the original LPC jam, nor do they appear to be in active development.
+
+* **The Legendary Apple Tree** ([itch](https://nadinakitten.itch.io/the-legendary-apple-tree)) — Created for the OpenGameArt Fall Game Jam of 2023. Doesn't use exclusively LPC assets.
 
 Additional Sources
 ------------
