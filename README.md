@@ -17,7 +17,7 @@ Games — Active Development
 * **Eternal Quest** ([Steam](https://store.steampowered.com/app/1385300/Eternal_Quest__2D_MMORPG/)) ([Website](https://eternal-quest.com.br/)) — MMORPG; released for Windows. Specific LPC assets used are credited in the website's "About" page. Character portraits and other elements not from LPC.
 
 * **Herodom** ([Website](https://sites.google.com/view/herodom/home)) — Strategy game combining unit, resource and city management; released for the iPhone and iPad. Specific LPC assets used are credited in the website's "Credits" page. Components of the game and an updated [LPC character spritesheet generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) have been open-sourced by the developer.
-	* **Battledom** ([Website](https://sanderfrenken.github.io/dev-blog/projects/battledom/) — Sucessor to Herodom, in development for iOS.
+	* **Battledom** ([Website](https://sanderfrenken.github.io/dev-blog/projects/battledom/)) — Sucessor to Herodom, in development for iOS.
 
 * **Stendhal** ([Website](https://arianne-project.org/game/stendhal.html))  — Free MMORPG. Uses LPC assets, but also many assets from other places; overall visual style is not LPC-oriented as it predates the LPC project by almost a decade.
 
