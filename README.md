@@ -17,6 +17,7 @@ Games — Active Development
 * **Eternal Quest** ([Steam](https://store.steampowered.com/app/1385300/Eternal_Quest__2D_MMORPG/)) ([Website](https://eternal-quest.com.br/)) — MMORPG; released for Windows. Specific LPC assets used are credited in the website's "About" page. Character portraits and other elements not from LPC.
 
 * **Herodom** ([Website](https://sites.google.com/view/herodom/home)) — Strategy game combining unit, resource and city management; released for the iPhone and iPad. Specific LPC assets used are credited in the website's "Credits" page. Components of the game and an updated [LPC character spritesheet generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) have been open-sourced by the developer.
+	* **Battledom** ([Website](https://sanderfrenken.github.io/dev-blog/projects/battledom/) — Sucessor to Herodom, in development for iOS.
 
 * **Stendhal** ([Website](https://arianne-project.org/game/stendhal.html))  — Free MMORPG. Uses LPC assets, but also many assets from other places; overall visual style is not LPC-oriented as it predates the LPC project by almost a decade.
 
@@ -81,6 +82,8 @@ These games were created as part of the original 2012-2013 LPC competition, but 
 Additional Games
 ------------
 These games are archived and known, but are not from the original LPC jam, nor do they appear to be in active development.
+
+* **Arcade Paradise** ([Steam](https://store.steampowered.com/app/1388870/Arcade_Paradise/)) — Manager with several minigames, some of which use modified LPC assets. Paid and closed source. Comparatively high profile entry. Credits ingame still unchecked for correct attribution.
 
 * **The Legendary Apple Tree** ([itch](https://nadinakitten.itch.io/the-legendary-apple-tree)) — Created for the OpenGameArt Fall Game Jam of 2023. Doesn't use exclusively LPC assets.
 
