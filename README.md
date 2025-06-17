@@ -12,8 +12,6 @@ The list below only features games for now, as this kind of resource had no list
 
 Games — Active Development
 ------------
-* **Encyclopedia Hortica Botanica** ([Github](https://github.com/samuncle/hortica-botanica)) ([OGA Thread](https://opengameart.org/forumtopic/encyclopedia-hortica-botanica-a-farming-game-made-with-godot-and-lpc-assets-0)) — Open-source farming game made in the Godot engine. 
-
 * **Eternal Quest** ([Steam](https://store.steampowered.com/app/1385300/Eternal_Quest__2D_MMORPG/)) ([Website](https://eternal-quest.com.br/)) — MMORPG; released for Windows. Specific LPC assets used are credited in the website's "About" page. Character portraits and other elements not from LPC.
 
 * **Herodom** ([Website](https://sites.google.com/view/herodom/home)) — Strategy game combining unit, resource and city management; released for the iPhone and iPad. Specific LPC assets used are credited in the website's "Credits" page. Components of the game and an updated [LPC character spritesheet generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) have been open-sourced by the developer.
@@ -84,6 +82,8 @@ Additional Games
 These games are archived and known, but are not from the original LPC jam, nor do they appear to be in active development.
 
 * **Arcade Paradise** ([Steam](https://store.steampowered.com/app/1388870/Arcade_Paradise/)) — Manager with several minigames, some of which use modified LPC assets. Paid and closed source. Comparatively high profile entry. Credits ingame still unchecked for correct attribution.
+
+* **Encyclopedia Hortica Botanica** ([Github](https://github.com/samuncle/hortica-botanica)) ([OGA Thread](https://opengameart.org/forumtopic/encyclopedia-hortica-botanica-a-farming-game-made-with-godot-and-lpc-assets-0)) — Open-source farming game made in the Godot engine, intended to be a showcase project for LPC. Worked on during 2021, but the repository seems to have been deleted without an archive. 
 
 * **The Legendary Apple Tree** ([itch](https://nadinakitten.itch.io/the-legendary-apple-tree)) — Created for the OpenGameArt Fall Game Jam of 2023. Doesn't use exclusively LPC assets.
 
